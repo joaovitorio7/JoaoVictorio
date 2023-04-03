@@ -1,4 +1,4 @@
-## Olá, Sou o João Vic Ribeiro :octocat:
+## Olá, Sou o João Victório Ribeiro :octocat:
 <br>
 
 ### Apaixonado por tecnologia e em achar um propósito para mudar a vida das pessoas

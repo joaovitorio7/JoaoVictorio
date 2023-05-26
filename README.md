@@ -1,16 +1,16 @@
-## Olá, Sou o João Victório Ribeiro :octocat:
+## Olá, Sou o João Victório Ribeiro 
 <br>
 
-### Apaixonado por tecnologia e em achar um propósito para mudar a vida das pessoas
+### Apaixonado por tecnologia e em achar um propósito para mudar a vida das pessoas!
 
 <br>
 
-- 🔭 Atualmente busco uma oportunidade na área de tecnologia, sou Publicitário migrando para a Área de Desenvolvedor.
-- :octocat:	Estudando Ruby on Rails
-- :octocat:	Praticando  meus aprendizados em HTML5 / CSS / JS que iniciei em Agosto de 2022
+- 🔭 Atualmente busco uma oportunidade na área de tecnologia, sou Publicitário e Produtor Musical migrando para a Área de Dev.
+- Linguagens: HTML/CSS/JS / RUBY / SQL
+- Praticando  meus aprendizados em constância
 - Ele/Elu
 
-- 💬 Pergunte-me algo!
+- 💬 Pergunte-me algo
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonnyj%C3%A3o/)
 [![Blog](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@victoriojoao92)
